@@ -1,0 +1,17 @@
+{
+    "balveer":{
+        "avatar": "Balveer's logo",
+        "description": "a startup by balveer",
+        "domain": "E-Commerce",
+        "founders": [
+              {
+                "founder": "Balveer Singh",
+                "linkedin": "linkedin.com/in/balveer-singh-9b1b1b1b/"
+              }
+            ],
+        "name": "Veer0x1",
+        "status": "Acquired",
+        "website": "https://www.shopclues.com/",
+        "year": "2023" 
+    }
+}
